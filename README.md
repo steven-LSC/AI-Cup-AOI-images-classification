@@ -1,5 +1,6 @@
 # AICup AOI images classification
-名次為前15%
+
+訓練結果準確率：99.31% 名次為前1%
 
 使用TensorFlow & Keras
 
